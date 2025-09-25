@@ -13,7 +13,7 @@ let books = [
   { id: 3, title: 'Gitanjali' , author: 'Rabindranath Tagore'},
   { id: 4, title: 'Midnights Children', author: 'Salman Rushdie' },
   { id: 5, title: 'The Private Life of an Indian Prince', author: 'Mulk Raj Anand' },
-  { id: 6, title: 'The God of Small Things' , author: 'Arundhati Roy'},
+  { id: 6, title: 'The God of Small Things' , author: ''},
 
 ];
 
